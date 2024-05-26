@@ -10,6 +10,9 @@ import GetInTouch from '../components/GetInTouch'
 import Footer from '../components/Footer'
 import Contact from '../components/Contact';
 import Reveal from '../components/Reveal';
+import RS from "../RS.png"
+import IS from "../IS.png"
+
 
 export default function Home(){
 
@@ -41,23 +44,21 @@ export default function Home(){
             <MainSectionServices
               div = <div id='4' className='line-div'></div>
               title = "Checking bags and other items"
-              description = "Our security dogs thoroughly inspect bags and other items to ensure that our clients' safety is ensured. With their exceptional training and acute senses, the dogs detect any potential threats. 
-
-" 
+              description = "Our security dogs thoroughly inspect bags and other items to ensure that our clients' safety is ensured. With their exceptional training and acute senses, the dogs detect any potential threats." 
             />
           </div>
           <Reveal><FlexibleServiecs /></Reveal>
           <h2 id='our-team-heading'>Our Team</h2>
           <div className='flex our-team-container'>
             <OurTeam
-              img = '/images/RS.png' 
+              img = {RS} 
               name = "Rahmatullah Shirzaei"
               title = "Director"
               email = "mailto:info@daryariver.com"
               tel = "tel:0093784640860"
             />
             <OurTeam
-              img = '/images/IS.png' 
+              img = {IS}
               name = "Isa Shirzaei"
               title = "Business Manager"
               email = "mailto:info@daryariver.com"
