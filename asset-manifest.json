@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DaryaRiverReact/static/css/main.e8a66e6b.css",
+    "main.js": "/DaryaRiverReact/static/js/main.5dbb2b6e.js",
+    "static/js/453.a620a663.chunk.js": "/DaryaRiverReact/static/js/453.a620a663.chunk.js",
+    "static/media/dog2.png": "/DaryaRiverReact/static/media/dog2.129a4616fab3a1c2d378.png",
+    "static/media/flexible-service-mobile.png": "/DaryaRiverReact/static/media/flexible-service-mobile.cb554bf183e4499f57f2.png",
+    "static/media/flexibleservicesimage.png": "/DaryaRiverReact/static/media/flexibleservicesimage.e6a7e6ae5aa33d584544.png",
+    "static/media/red-brush-paint.svg": "/DaryaRiverReact/static/media/red-brush-paint.ba22fa24346e2ea411cd.svg",
+    "index.html": "/DaryaRiverReact/index.html",
+    "main.e8a66e6b.css.map": "/DaryaRiverReact/static/css/main.e8a66e6b.css.map",
+    "main.5dbb2b6e.js.map": "/DaryaRiverReact/static/js/main.5dbb2b6e.js.map",
+    "453.a620a663.chunk.js.map": "/DaryaRiverReact/static/js/453.a620a663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a66e6b.css",
+    "static/js/main.5dbb2b6e.js"
+  ]
+}
