@@ -9,7 +9,7 @@ import { Route, Routes } from "react-router-dom";
 export default function Pages(){
     return(
         <Routes>
-            <Route index path="/DaryaRiverReact" element={<Home/> }/>
+            <Route index element={<Home/> }/>
             <Route path="/success" element={<Success/>} />
             <Route path="/about" element={<About/>} />
             <Route path="/contact" element={<Contact/>} />
