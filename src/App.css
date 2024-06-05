@@ -375,7 +375,7 @@
     height: 100%;
 }
 #footer-left-column{
-    grid-area: 4 / 3 / 5 / 6  ;
+    grid-area: 4 / 3 / 5 / 7  ;
 }
 
 #footer-middle-column{

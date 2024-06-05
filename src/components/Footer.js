@@ -10,7 +10,7 @@ export default function Footer(){
                     <ul>
                         <li>Kabul, Afghanistan</li>
                         <li>Tel: +93 78989898989</li>
-                        <li>Email: info@drdta.com</li>
+                        <li>Email: info@daryariver.com</li>
                     </ul>
                 </nav>
                

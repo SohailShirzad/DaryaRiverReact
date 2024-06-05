@@ -10,7 +10,7 @@ import GetInTouch from '../components/GetInTouch'
 import Footer from '../components/Footer'
 import Contact from '../components/Contact';
 import Reveal from '../components/Reveal';
-import RS from "../RS.png"
+import RS from "../RS.jpg"
 import IS from "../IS.png"
 
 

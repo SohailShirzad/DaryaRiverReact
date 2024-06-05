@@ -57,8 +57,8 @@ export default function Contact() {
 
     const sendEmail = () => {
           emailjs
-          .sendForm('service_nr1vkos', 'template_zs8kkph', form.current, {
-              publicKey: 'WEt2w76hRwRFGYvZo'
+          .sendForm('service_xtkq8db', 'template_zs8kkph', form.current, {
+              publicKey: 'EI4QyzvHpsj1CMlBL'
           })
           .then(
               () => {
