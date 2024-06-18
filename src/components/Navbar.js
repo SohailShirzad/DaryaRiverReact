@@ -44,7 +44,7 @@ const [isOpen, setIsOpen] = useState(false);
             <header className="header">
                 <m.nav animate={isOpen ? "open" : "closed"}className="flex headerNav">
                     <div className='nav-width-60'>
-                    <a id="header-nav-a-svg" href='#'><object className='headerSVG' data="./images/logo svg.svg" alt="logo"></object></a>
+                    <a id="header-nav-a-svg" href='#'><object className='headerSVG' data="./images/logo.svg" alt="logo"></object></a>
                     <m.a className='nav-btn' id='navbar-toggle' onClick={() => {setIsOpen(!isOpen); openNav();}} ref={navBtn}>
                         <span className='bar'></span>
                         <span className='bar'></span>

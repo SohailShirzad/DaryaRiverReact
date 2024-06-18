@@ -12,9 +12,9 @@ export default function OurTeam(props){
                 <p className="our-team-position-text red-text bold">{props.title}</p>
                 <div className="our-team-social-icons flex align-bottom">
                     <a className='our-team-a-icons' href={props.email}>
-                        <object className='our-team-icons' data="./images/phone-solid.svg" aria-label = "phone icon"></object>
+                        <object className='our-team-icons' data="./images/envelope-solid.svg" aria-label = "phone icon"></object>
                     </a>
-                    <a href={props.tel}><object className='our-team-icons' data="./images/envelope-solid.svg" aria-label="email"></object></a>
+                    <a href={props.tel}><object className='our-team-icons' data="./images/phone-solid.svg" aria-label="email"></object></a>
                 </div>
             </section>
         

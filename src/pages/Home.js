@@ -52,10 +52,10 @@ export default function Home(){
           <div className='flex our-team-container'>
             <OurTeam
               img = {RS} 
-              name = "Rahmatullah Shirzaei"
+              name = "Rahmatullah Shirzad"
               title = "Director"
               email = "mailto:info@daryariver.com"
-              tel = "tel:0093784640860"
+              tel = "tel:+93784640860"
             />
             <OurTeam
               img = {IS}
