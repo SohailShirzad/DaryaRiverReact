@@ -62,7 +62,7 @@ export default function Home(){
               name = "Isa Shirzaei"
               title = "Business Manager"
               email = "mailto:info@daryariver.com"
-              tel = "tel:00447961977725"
+              tel = "tel:00930784640869"
             />
           </div>      
           <Reveal><PeaceOfMind /></Reveal> 

@@ -1,6 +1,6 @@
 import '../App.css'
 import '../index.css'
-import peaceofmind from "../peaceofmind.png"
+import peaceofmind from "../service-check-vehicle.png"
 
 export default function PeaceOfMind(){
     return(

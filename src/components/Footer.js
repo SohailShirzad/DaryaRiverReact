@@ -9,8 +9,8 @@ export default function Footer(){
                 <nav className='footer-nav'>
                     <ul>
                         <li>Kabul, Afghanistan</li>
-                        <li>Tel: +93 78989898989</li>
-                        <li>Email: info@daryariver.com</li>
+                        <li>Tel: <a href='tel:+93784640860'>+93784640860</a></li>
+                        <li>Email: <a href='mailto:info@daryariver.com'>info@daryariver.com</a></li>
                     </ul>
                 </nav>
                
